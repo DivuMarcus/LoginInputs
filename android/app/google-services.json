@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82037356206",
+    "firebase_url": "https://loginauth-3c6f3.firebaseio.com",
+    "project_id": "loginauth-3c6f3",
+    "storage_bucket": "loginauth-3c6f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82037356206:android:30c277583011fa6e",
+        "android_client_info": {
+          "package_name": "com.example.userinputs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82037356206-9r68818hlv3euejd2o5ll1cpuk26lhft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVa9GJLVDI6GOXKKbNuMRhxSUS9ZpHy3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82037356206-9r68818hlv3euejd2o5ll1cpuk26lhft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

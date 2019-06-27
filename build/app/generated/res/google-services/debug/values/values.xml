@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">82037356206-9r68818hlv3euejd2o5ll1cpuk26lhft.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://loginauth-3c6f3.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">82037356206</string>
+    <string name="google_api_key" translatable="false">AIzaSyCVa9GJLVDI6GOXKKbNuMRhxSUS9ZpHy3I</string>
+    <string name="google_app_id" translatable="false">1:82037356206:android:30c277583011fa6e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCVa9GJLVDI6GOXKKbNuMRhxSUS9ZpHy3I</string>
+    <string name="google_storage_bucket" translatable="false">loginauth-3c6f3.appspot.com</string>
+    <string name="project_id" translatable="false">loginauth-3c6f3</string>
+</resources>
